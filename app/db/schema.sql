@@ -1,0 +1,3 @@
+-- File Path: app/db/schema.sql
+-- Author: TODO
+-- Description: TODO
